@@ -8,4 +8,4 @@ CNC: 3018 Pro
 GRBL version: 1.1
 CNC Standard: G-code
 Text Editor: Thonny
-
+Pick up: Vacuum
