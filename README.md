@@ -9,3 +9,5 @@ GRBL version: 1.1
 CNC Standard: G-code
 Text Editor: Thonny
 Pick up: Vacuum
+
+Youtube Video Link: https://youtu.be/e9eVaMbWwbo 
