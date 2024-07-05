@@ -11,3 +11,6 @@ Text Editor: Thonny
 Pick up: Vacuum
 
 Youtube Video Link: https://youtu.be/e9eVaMbWwbo 
+
+Python File for Windows OS: hu.py
+Heating control file for Arduino Nano: Heating_solution_400C.ino
